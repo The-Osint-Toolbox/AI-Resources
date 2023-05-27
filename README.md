@@ -2,7 +2,8 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-<p></p>
+<p>AI is not new however it has recently taken a leap forward not just in technology but also public awareness. For that reason it cannot be ignored as a potential OSINT tool. There are Privacy concerns with some European counteries already taking note and maybe action in the future. Like with any OSINT tool, understand what it does and ensure you are happy that you maybe giving up your data ro help build future AI capabilities. </p>
+<br></br>
 <table>
     <tr>
         <td>AI Imagery</td>
@@ -40,7 +41,7 @@
     </tr>
 </table>
 <ul>  
- <li><a href="https://otter.ai/">Otter.ai</a></li>
+<li><a href="https://otter.ai/">Otter.ai</a></li>
  <p>Get an AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries</p>
 <li><a href="https://github.com/openai/whisper">Whisper</a></li>
  <p>Robust Speech Recognition via Large-Scale Weak Supervision.</p> 
@@ -52,6 +53,8 @@
     </tr>
 </table>
 <ul>
+ <li><a href="https://aivalley.ai/">AI Valley</li>   
+  <p>Discover the newest AI tools and rompts for any use in seconds, updated daily</p> 
  <li><a href="https://12ft.io/">12ft</a></li>
- <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
+  <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
 </ul>
