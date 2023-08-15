@@ -45,6 +45,8 @@
  <p>Get an AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries</p>
 <li><a href="https://github.com/openai/whisper">Whisper</a></li>
  <p>Robust Speech Recognition via Large-Scale Weak Supervision.</p> 
+<li><a href="https://github.com/bellingcat/whisperbox-transcribe">Whisper Transcribe</a></li>  
+ <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
 </ul>
 <br></br> 
  <table>
