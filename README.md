@@ -40,8 +40,10 @@
         <td>AI Translation</td>
     </tr>
 </table>
-<ul>  
-<li><a href="https://otter.ai/">Otter.ai</a></li>
+<ul>
+ <li><a href="https://lmstudio.ai/">LM Studio</a></li>
+  <p>Discover, download, and run local LLMs.</p>
+ <li><a href="https://otter.ai/">Otter.ai</a></li>
  <p>Get an AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries</p>
 <li><a href="https://github.com/openai/whisper">Whisper</a></li>
  <p>Robust Speech Recognition via Large-Scale Weak Supervision.</p> 
