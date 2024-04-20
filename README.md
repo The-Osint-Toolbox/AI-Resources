@@ -89,7 +89,9 @@
 </table>
 <div id="aiother"></div>
 <ul>
- <li><a href="https://aivalley.ai/">AI Valley</li>   
+  <li><a href="https://github.com/luijait/DarkGPT?source=post_page-----ec099b4a0e50--------------------------------">DarkGPT</a></li> 
+   <p>DarkGPT is an OSINT assistant based on GPT-4-200K.</p>
+  <li><a href="https://aivalley.ai/">AI Valley</li>   
   <p>Discover the newest AI tools and rompts for any use in seconds, updated daily</p> 
  <li><a href="https://12ft.io/">12ft</a></li>
   <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
