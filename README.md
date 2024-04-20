@@ -18,12 +18,13 @@
     <td><a href="#aisearchengines">AI Search Engines</a></td>
   </tr>
   <tr>
-    <td><a href="#aitranslations">AI Translation</a></td>
+    <td><a href="#aitranslation">AI Translation</a></td>
   </tr>
   <tr>
     <td><a href="#aiother">AI Other</a></td>
   </tr>
 </table>
+<br/>
 <table>
     <tr>
         <td>AI Imagery</td>
