@@ -1,6 +1,6 @@
 # AI-Resources
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p>AI is not new however it has recently taken a leap forward not just in technology but also public awareness. For that reason it cannot be ignored as a potential OSINT tool. There are Privacy concerns with some European counteries already taking note and maybe action in the future. Like with any OSINT tool, understand what it does and ensure you are happy that you maybe giving up your data ro help build future AI capabilities. </p>
 <br></br>
@@ -92,9 +92,11 @@
   <li><a href="https://github.com/luijait/DarkGPT?source=post_page-----ec099b4a0e50--------------------------------">DarkGPT</a></li> 
    <p>DarkGPT is an OSINT assistant based on GPT-4-200K.</p>
   <li><a href="https://aivalley.ai/">AI Valley</li>   
-  <p>Discover the newest AI tools and rompts for any use in seconds, updated daily</p> 
- <li><a href="https://12ft.io/">12ft</a></li>
-  <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
+   <p>Discover the newest AI tools and rompts for any use in seconds, updated daily</p>
+  <li><a href="https://huggingface.co/">Hugging Faces</a></li>
+   <p>The platform where the machine learning community collaborates on models, datasets, and applications.</p>
+  <li><a href="https://12ft.io/">12ft</a></li>
+   <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
 </ul>
 </div>
 
