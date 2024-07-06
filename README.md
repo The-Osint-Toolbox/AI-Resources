@@ -34,6 +34,14 @@
 <ul>
 <li><a href="https://clipdrop.co/">Clipdrop</a></li>
  <p>Upscale your image remove objects, people, text, and defects from your pictures using this powerful AI.</p>
+<li><a href="https://huggingface.co/spaces/gokaygokay/Florence-2">Florence-2</a></li>
+ <p>AI reverse image search.</p>
+<li><a href="https://geospy.web.app/">Geospy</a></li>
+ <p>Geospy will try to locate where an image was taken using AI.</p>
+<li><a href="https://huggingface.co/NemesisAlm">NemesisAlm</a></li>
+ <p>StreetClip Model used for classification - 92 countries supported</p>
+<li><a href="https://picarta.ai/">Picarta</a></li>
+ <p>Picarta will predict where a photo has been taken in the world using Artificial Intelligence.</p> 
 </ul>    
 </div>
 <br></br> 
@@ -89,11 +97,11 @@
 </table>
 <div id="aiother"></div>
 <ul>
-  <li><a href="https://github.com/luijait/DarkGPT?source=post_page-----ec099b4a0e50--------------------------------">DarkGPT</a></li> 
-   <p>DarkGPT is an OSINT assistant based on GPT-4-200K.</p>
   <li><a href="https://aivalley.ai/">AI Valley</li>   
    <p>Discover the newest AI tools and rompts for any use in seconds, updated daily</p>
-  <li><a href="https://huggingface.co/">Hugging Faces</a></li>
+  <li><a href="https://github.com/luijait/DarkGPT?source=post_page-----ec099b4a0e50--------------------------------">DarkGPT</a></li> 
+   <p>DarkGPT is an OSINT assistant based on GPT-4-200K.</p>
+  li><a href="https://huggingface.co/">Hugging Faces</a></li>
    <p>The platform where the machine learning community collaborates on models, datasets, and applications.</p>
   <li><a href="https://12ft.io/">12ft</a></li>
    <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
