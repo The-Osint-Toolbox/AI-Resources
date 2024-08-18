@@ -32,6 +32,8 @@
 </table>
 <div id="aiimgery"></div>
 <ul>
+<li><a href="https://carnet.ai/">CarNet</a></li>
+ <lI>AI reverse image search for vehicles.</lI>
 <li><a href="https://clipdrop.co/">Clipdrop</a></li>
  <p>Upscale your image remove objects, people, text, and defects from your pictures using this powerful AI.</p>
 <li><a href="https://huggingface.co/spaces/gokaygokay/Florence-2">Florence-2</a></li>
