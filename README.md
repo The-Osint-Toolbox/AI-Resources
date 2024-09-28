@@ -38,6 +38,8 @@
  <p>Upscale your image remove objects, people, text, and defects from your pictures using this powerful AI.</p>
 <li><a href="https://huggingface.co/spaces/gokaygokay/Florence-2">Florence-2</a></li>
  <p>AI reverse image search.</p>
+<li><a href="https://app.imgnai.com/">Imgnai</a></li> 
+ <p>Create art and images using AI</p>
 <li><a href="https://geospy.web.app/">Geospy</a></li>
  <p>Geospy will try to locate where an image was taken using AI.</p>
 <li><a href="https://lenso.ai/en">Lenso</a></li>
