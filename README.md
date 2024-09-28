@@ -39,6 +39,8 @@
  <p>AI reverse image search for vehicles.</p>
 <li><a href="https://clipdrop.co/">Clipdrop</a></li>
  <p>Upscale your image remove objects, people, text, and defects from your pictures using this powerful AI.</p>
+<li><a href="https://earthkit.app/sift">EarthKit</a></li>
+ <p>A Nifty toolkit that helps you Geolocate faster with AI.</p>
 <li><a href="https://huggingface.co/spaces/gokaygokay/Florence-2">Florence-2</a></li>
  <p>AI reverse image search.</p>
 <li><a href="https://geospy.web.app/">Geospy</a></li>
