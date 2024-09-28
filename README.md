@@ -9,7 +9,7 @@
     <td>Table of Contents</td>
   </tr>
   <tr>
-    <td><a href="#aiimgery">AI Imagery</a></td>
+    <td><a href="#aireverseimagesearch">AI Reverse Image Search</a></td>
   </tr>
   <tr>
     <td><a href="#aiocr">AI OCR</a></td>
@@ -21,16 +21,19 @@
     <td><a href="#aitranslation">AI Translation</a></td>
   </tr>
   <tr>
-    <td><a href="#aiother">AI Other</a></td>
+    <td><a href="#aimiscellaneous">AI Miscellaneous</a></td>
+  </tr>
+  <tr>
+    <td><a href="#aisockaccounttools">AI Sock Account Tools</a></td>
   </tr>
 </table>
 <br/>
 <table>
     <tr>
-        <td>AI Imagery</td>
+        <td>AI Reverse Image Search</td>
     </tr>
 </table>
-<div id="aiimgery"></div>
+<div id="aireverseimagesearch"></div>
 <ul>
 <li><a href="https://carnet.ai/">CarNet</a></li>
  <p>AI reverse image search for vehicles.</p>
@@ -99,10 +102,10 @@
 <br></br> 
  <table>
     <tr>
-        <td>AI Other</td>
+        <td>AI Miscellaneous</td>
     </tr>
 </table>
-<div id="aiother"></div>
+<div id="aimiscellaneous"></div>
 <ul>
   <li><a href="https://huggingface.co/spaces/JournalistsonHF/ai-scraper">AI Scraper</a></li>
    <p>Easily scrape and summarize web content using advanced AI model</p>
@@ -116,5 +119,14 @@
    <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
 </ul>
 </div>
+ <table>
+    <tr>
+        <td>AI Sock Account Tools</td>
+    </tr>
+</table>
+  <div id="aisockaccounttools"></div>
+    <li><a href="https://app.imgnai.com/">Imgnai</a></li>
+    <p>Create art and images using AI.</p></li>
+  </div>
 
 
