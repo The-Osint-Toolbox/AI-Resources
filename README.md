@@ -72,7 +72,7 @@
 </table>
 <div id="aisearchengines"></div>
 <ul>
-<li><a href="https://consensus.app/">Comsensus</a></li>
+<li><a href="https://consensus.app/">Consensus</a></li>
 <li><a href="https://metaphor.systems/">Metaphor</a></li>
 <li><a href="https://www.perplexity.ai/">Perplexity</a></li>
 <li><a href="https://www.phind.com/">Phind</a></li>
