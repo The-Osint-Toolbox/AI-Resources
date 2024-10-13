@@ -76,6 +76,7 @@
 <li><a href="https://metaphor.systems/">Metaphor</a></li>
 <li><a href="https://www.perplexity.ai/">Perplexity</a></li>
 <li><a href="https://www.phind.com/">Phind</a></li>
+<li><a href="https://searchwhisperer.ai/">Search Whisper</a></li>
 <li><a href="https://stellar.chatastra.ai/">Stellar</a></li>
 <li><a href="https://you.com/">You</a></li>
 </ul>
