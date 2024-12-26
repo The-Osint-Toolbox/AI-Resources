@@ -92,13 +92,15 @@
  <li><a href="https://lmstudio.ai/">LM Studio</a></li>
   <p>Discover, download, and run local LLMs.</p>
  <li><a href="https://otter.ai/">Otter.ai</a></li>
- <p>Get an AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries</p>
-<li><a href="https://github.com/openai/whisper">Whisper</a></li>
- <p>Robust Speech Recognition via Large-Scale Weak Supervision.</p> 
-<li><a href="https://github.com/bellingcat/whisperbox-transcribe">Whisper Transcribe</a></li>  
- <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
-<li><a href="https://youtubetranscript.com/">YouTube Transcript</a></li> 
- <p>Create youtube video summaries and more.</p>  
+  <p>Get an AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries</p>
+ <li><a href="https://github.com/Shubhamsaboo/awesome-llm-apps">Shubhamsaboo</a></li>
+  <p>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</p> 
+ <li><a href="https://github.com/openai/whisper">Whisper</a></li>
+  <p>Robust Speech Recognition via Large-Scale Weak Supervision.</p> 
+ <li><a href="https://github.com/bellingcat/whisperbox-transcribe">Whisper Transcribe</a></li>  
+  <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
+ <li><a href="https://youtubetranscript.com/">YouTube Transcript</a></li> 
+  <p>Create youtube video summaries and more.</p>  
 </ul>
 </div>
 <br></br> 
