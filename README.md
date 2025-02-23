@@ -111,6 +111,8 @@
 </table>
 <div id="aimiscellaneous"></div>
 <ul>
+  <li><a href="https://12ft.io/">12ft</a></li>
+   <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
   <li><a href="https://huggingface.co/spaces/JournalistsonHF/ai-scraper">AI Scraper</a></li>
    <p>Easily scrape and summarize web content using advanced AI model</p>
   <li><a href="https://aivalley.ai/">AI Valley</li>   
@@ -121,8 +123,8 @@
    <p>DarkGPT is an OSINT assistant based on GPT-4-200K.</p>
   <li><a href="https://huggingface.co/">Hugging Faces</a></li>
    <p>The platform where the machine learning community collaborates on models, datasets, and applications.</p>
-  <li><a href="https://12ft.io/">12ft</a></li>
-   <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
+  <li><a href="https://github.com/mudler/LocalAI">Local AI</a></li> 
+   <p>The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first.</p>  
 </ul>
 </div>
  <table>
