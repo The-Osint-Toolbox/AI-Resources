@@ -127,6 +127,8 @@
    <p>The platform where the machine learning community collaborates on models, datasets, and applications.</p>
   <li><a href="https://github.com/mudler/LocalAI">Local AI</a></li> 
    <p>The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first.</p>  
+  <li><a href="https://www.promptimizeai.com/">Promptimize</a></li> 
+   <p>Promptimize is a browser extension that gives anyone the powers of an expert prompt engineer.</p>  
 </ul>
 </div>
  <table>
