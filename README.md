@@ -119,6 +119,8 @@
    <p>Discover the newest AI tools and rompts for any use in seconds, updated daily</p>
   <li><a href="https://github.com/itsOwen/CyberScraper-2077">CyberScraper2077</a></li>
    <p>A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama.</p> 
+  <li><a href="https://digitaldigging.org/research/">Digital Digging</a></li> 
+   <p>AI Research Pilot. Advanced search tool for investigators, reporters, and researchers conducting in-depth analysis.</p>  
   <li><a href="https://www.nomic.ai/gpt4all">GPT4All</a></lI> 
    <p>Private and Local AI Chatbot.</p>
   <li><a href="https://github.com/luijait/DarkGPT?source=post_page-----ec099b4a0e50--------------------------------">DarkGPT</a></li> 
