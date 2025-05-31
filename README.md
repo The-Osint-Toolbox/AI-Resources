@@ -8,6 +8,9 @@
   <tr>
     <td>Table of Contents</td>
   </tr>
+  <tr>
+    <td><a href="#deepresearch">Deep Research</a></td>
+  </tr>   
   <tr>
     <td><a href="#aireverseimagesearch">AI Reverse Image Search</a></td>
   </tr>
@@ -28,6 +31,15 @@
   </tr>
 </table>
 <br/>
+<table>
+    <tr>
+        <td>Deep Research</td>
+    </tr>
+</table>
+<ul>
+<li><A href="https://gemini.google/overview/deep-research/?hl=en">Gemini</A></li>
+<li><a href="https://openai.com/index/introducing-deep-research/">OpenAI</a></li>
+</ul>
 <table>
     <tr>
         <td>AI Reverse Image Search</td>
