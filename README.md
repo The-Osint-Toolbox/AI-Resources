@@ -40,6 +40,7 @@
 <li><A href="https://gemini.google/overview/deep-research/?hl=en">Gemini</A></li>
 <li><a href="https://openai.com/index/introducing-deep-research/">OpenAI</a></li>
 </ul>
+<br></br> 
 <table>
     <tr>
         <td>AI Reverse Image Search</td>
