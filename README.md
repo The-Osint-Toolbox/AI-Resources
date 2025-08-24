@@ -124,6 +124,8 @@
 </table>
 <div id="aimiscellaneous"></div>
 <ul>
+   <li><a href="https://1min.ai/">1Min AI</a></li>
+   <p>All in one AI app.</p>
   <li><a href="https://12ft.io/">12ft</a></li>
    <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
   <li><a href="https://huggingface.co/spaces/JournalistsonHF/ai-scraper">AI Scraper</a></li>
