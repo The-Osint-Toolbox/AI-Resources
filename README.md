@@ -58,6 +58,8 @@
  <p>AI reverse image search.</p>
 <li><a href="https://geospy.web.app/">Geospy</a></li>
  <p>Geospy will try to locate where an image was taken using AI.</p>
+<li><a href="https://geoinfer.com/">GeoInfer</a></li>
+ <p>Image geolocation tool that identifies where a photo was taken using AI, no EXIF data required.</p>
 <li><a href="https://lenso.ai/en">Lenso</a></li>
   <p>AI Reverse Image Search</p>
 <li><a href="https://huggingface.co/NemesisAlm">NemesisAlm</a></li>
