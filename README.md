@@ -148,6 +148,8 @@
    <p>The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first.</p>  
   <li><a href="https://www.promptimizeai.com/">Promptimize</a></li> 
    <p>Promptimize is a browser extension that gives anyone the powers of an expert prompt engineer.</p>  
+  <li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a></li> 
+   <p>Independent X (Twitter) data API and MCP for search, follower export, and monitors.</p>  
 </ul>
 </div>
  <table>
