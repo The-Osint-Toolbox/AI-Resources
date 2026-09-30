@@ -148,6 +148,8 @@
    <p>The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first.</p>  
   <li><a href="https://www.promptimizeai.com/">Promptimize</a></li> 
    <p>Promptimize is a browser extension that gives anyone the powers of an expert prompt engineer.</p>  
+  <li><a href="https://isthisaigenerated.app/site/">isthisaigenerated.app</a></li>
+   <p>Free warning-signal checker for AI-generated images, sampled video, text and documents (PDF, DOCX, HTML, TXT, Markdown) in NL/EN/ID. Publishes measured accuracy slices and false-positive limits, requires no account, and states that every result is triage for human review rather than proof of origin. Self-submission, disclosed in this PR.</p>
 </ul>
 </div>
  <table>
