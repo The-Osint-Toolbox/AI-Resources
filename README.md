@@ -116,6 +116,8 @@
   <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
  <li><a href="https://youtubetranscript.com/">YouTube Transcript</a></li> 
   <p>Create youtube video summaries and more.</p>  
+ <li><a href="https://getyoutubetranscript.com/">GetYouTubeTranscript</a></li> 
+  <p>Paste a YouTube link to get the transcript with timestamps, exportable as SRT, VTT, JSON, CSV, Markdown or TXT, with AI summary and chat. Also has a REST API and an MCP server. Free account with 100 credits (one-time), paid plans from $5/month. Self-submission by the developer.</p>  
 </ul>
 </div>
 <br></br> 
