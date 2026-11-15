@@ -144,8 +144,6 @@
    <p>AI Research Pilot. Advanced search tool for investigators, reporters, and researchers conducting in-depth analysis.</p>  
   <li><a href="https://www.nomic.ai/gpt4all">GPT4All</a></lI> 
    <p>Private and Local AI Chatbot.</p>
-  <li><a href="https://github.com/luijait/DarkGPT?source=post_page-----ec099b4a0e50--------------------------------">DarkGPT</a></li> 
-   <p>DarkGPT is an OSINT assistant based on GPT-4-200K.</p>
   <li><a href="https://huggingface.co/">Hugging Faces</a></li>
    <p>The platform where the machine learning community collaborates on models, datasets, and applications.</p>
   <li><a href="https://github.com/mudler/LocalAI">Local AI</a></li> 
