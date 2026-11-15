@@ -132,6 +132,8 @@
    <p>All in one AI app.</p>
   <li><a href="https://12ft.io/">12ft</a></li>
    <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
+  <li><a href="https://aiimagedetection.app/">AI Image Detection</a></li>
+   <p>Checks whether an uploaded, pasted or linked image was likely made by AI. It reads Content Credentials (C2PA) and metadata first, then runs a detection model, and answers Likely AI, Likely real, Can't tell or Edited with AI with the reasons. Free for 3 checks a day, no account needed.</p>
   <li><a href="https://huggingface.co/spaces/JournalistsonHF/ai-scraper">AI Scraper</a></li>
    <p>Easily scrape and summarize web content using advanced AI model</p>
   <li><a href="https://aivalley.ai/">AI Valley</li>   
